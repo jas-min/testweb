@@ -3,313 +3,565 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="http://example.com/es/projects/photography/"
+=======
+    <loc>/projects/photography/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/projects/photography/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/projects/photography/"
+=======
+                href="/de/projects/photography/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/projects/photography/"
+=======
+                href="/projects/photography/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="http://example.com/es/projects/design/"
+=======
+    <loc>/projects/design/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/projects/design/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/projects/design/"
+=======
+                href="/de/projects/design/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/projects/design/"
+=======
+                href="/projects/design/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="http://example.com/es/projects/writing/"
+=======
+    <loc>/projects/writing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/projects/writing/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/projects/writing/"
+=======
+                href="/de/projects/writing/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/projects/writing/"
+=======
+                href="/projects/writing/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="http://example.com/es/projects/"
+=======
+    <loc>/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/projects/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/projects/"
+=======
+                href="/de/projects/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/projects/"
+=======
+                href="/projects/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/blog/</loc>
+=======
+    <loc>/blog/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/blog/"
+=======
+                href="/es/blog/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/blog/"
+=======
+                href="/de/blog/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/blog/"
+=======
+                href="/blog/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/tags/code/</loc>
+=======
+    <loc>/tags/code/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/tags/code/"
+=======
+                href="/es/tags/code/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/tags/code/"
+=======
+                href="/de/tags/code/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/tags/code/"
+=======
+                href="/tags/code/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/</loc>
+=======
+    <loc>/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/"
+=======
+                href="/es/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/"
+=======
+                href="/de/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/"
+=======
+                href="/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/tags/</loc>
+=======
+    <loc>/tags/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/tags/"
+=======
+                href="/es/tags/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/tags/"
+=======
+                href="/de/tags/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/tags/"
+=======
+                href="/tags/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/blog/configuration/</loc>
+=======
+    <loc>/blog/configuration/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/blog/long-form-post/</loc>
+=======
+    <loc>/blog/long-form-post/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/tags/blog/</loc>
+=======
+    <loc>/tags/blog/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2020-05-30T20:18:53-05:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/blog/hipster-ipsum/</loc>
+=======
+    <loc>/blog/hipster-ipsum/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/blog/hipster-ipsum/"
+=======
+                href="/de/blog/hipster-ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/blog/hipster-ipsum/"
+=======
+                href="/blog/hipster-ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/tags/ipsum/</loc>
+=======
+    <loc>/tags/ipsum/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/tags/ipsum/"
+=======
+                href="/es/tags/ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/tags/ipsum/"
+=======
+                href="/de/tags/ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/tags/ipsum/"
+=======
+                href="/tags/ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/tags/words/</loc>
+=======
+    <loc>/tags/words/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/tags/words/"
+=======
+                href="/es/tags/words/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/tags/words/"
+=======
+                href="/de/tags/words/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/tags/words/"
+=======
+                href="/tags/words/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/blog/startup-ipsum/</loc>
+=======
+    <loc>/blog/startup-ipsum/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/blog/startup-ipsum/"
+=======
+                href="/es/blog/startup-ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/blog/startup-ipsum/"
+=======
+                href="/de/blog/startup-ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/blog/startup-ipsum/"
+=======
+                href="/blog/startup-ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/tags/coffee/</loc>
+=======
+    <loc>/tags/coffee/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/tags/coffee/"
+=======
+                href="/es/tags/coffee/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/tags/coffee/"
+=======
+                href="/de/tags/coffee/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/tags/coffee/"
+=======
+                href="/tags/coffee/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/blog/coffee-ipsum/</loc>
+=======
+    <loc>/blog/coffee-ipsum/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/blog/coffee-ipsum/"
+=======
+                href="/es/blog/coffee-ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/blog/coffee-ipsum/"
+=======
+                href="/de/blog/coffee-ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/blog/coffee-ipsum/"
+=======
+                href="/blog/coffee-ipsum/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/tags/images/</loc>
+=======
+    <loc>/tags/images/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
+<<<<<<< HEAD
                 href="http://example.com/es/tags/images/"
+=======
+                href="/es/tags/images/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
+<<<<<<< HEAD
                 href="http://example.com/de/tags/images/"
+=======
+                href="/de/tags/images/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+<<<<<<< HEAD
                 href="http://example.com/tags/images/"
+=======
+                href="/tags/images/"
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://example.com/blog/no-date/</loc>
+=======
+    <loc>/blog/no-date/</loc>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
   </url>
   
 </urlset>

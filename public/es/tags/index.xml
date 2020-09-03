@@ -2,57 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Introducción</title>
+<<<<<<< HEAD
     <link>http://example.com/es/tags/</link>
+=======
+    <link>/es/tags/</link>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     <description>Recent content in Tags on Introducción</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 13 Nov 2017 11:58:39 -0500</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="http://example.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="/es/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
     
     
     <item>
       <title>ipsum</title>
+<<<<<<< HEAD
       <link>http://example.com/es/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
       <guid>http://example.com/es/tags/ipsum/</guid>
+=======
+      <link>/es/tags/ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>/es/tags/ipsum/</guid>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
       <description></description>
     </item>
     
     <item>
       <title>words</title>
+<<<<<<< HEAD
       <link>http://example.com/es/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
       <guid>http://example.com/es/tags/words/</guid>
+=======
+      <link>/es/tags/words/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>/es/tags/words/</guid>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
       <description></description>
     </item>
     
     <item>
       <title>code</title>
+<<<<<<< HEAD
       <link>http://example.com/es/tags/code/</link>
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       
       <guid>http://example.com/es/tags/code/</guid>
+=======
+      <link>/es/tags/code/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>/es/tags/code/</guid>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
       <description></description>
     </item>
     
     <item>
       <title>coffee</title>
+<<<<<<< HEAD
       <link>http://example.com/es/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
       <guid>http://example.com/es/tags/coffee/</guid>
+=======
+      <link>/es/tags/coffee/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>/es/tags/coffee/</guid>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
       <description></description>
     </item>
     
     <item>
       <title>images</title>
+<<<<<<< HEAD
       <link>http://example.com/es/tags/images/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
       <guid>http://example.com/es/tags/images/</guid>
+=======
+      <link>/es/tags/images/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>/es/tags/images/</guid>
+>>>>>>> 20cd728e28b4be6cc640e3fb6ebf40713d1bf131
       <description></description>
     </item>
     
